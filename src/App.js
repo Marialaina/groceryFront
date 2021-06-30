@@ -18,19 +18,10 @@ function App(props) {
     color: "white",
   }
 
-  const newStyle = {
-    background: "#4777",
-    color: "#e87ac1"
-  }
-
   const button ={
     backgroundColor: "#64a764",
     display: "block",
     margin: "auto"
-  }
-
-  const groceryStyle = {
-    backgroundColor: "gray"
   }
 
   //API URL
