@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import AllGroceries from './pages/allGroceries';
 import SingleGrocery from './pages/singleGrocery';
